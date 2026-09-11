@@ -112,9 +112,6 @@ Objective: Analyzing how users are engaging with the email service.
 - <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
 - <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
 
-## Contact me!
-
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
 
 
 
