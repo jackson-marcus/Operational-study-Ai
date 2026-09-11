@@ -106,7 +106,7 @@ Objective: Analyzing how users are engaging with the email service.
 - [Case Study 1](https://github.com/tushar2704/Operational-Analytics-Study/blob/main/reports/Case_1.docx)
 - [Case Study 2](https://github.com/tushar2704/Operational-Analytics-Study/blob/main/reports/Case_2.docx)
 ## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
+- <ins><b>All rights reserved</b></ins>
 - <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
 - <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
 - <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
